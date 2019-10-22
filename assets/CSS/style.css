@@ -1,0 +1,47 @@
+body {
+    background-image: url(../Images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    padding: 0 0;
+    margin: 0 15;
+}
+h1{
+    padding: 20px 0px;
+    margin: 0 0 20px 0;
+    background-color:rgb(196, 196, 147);
+    color: White;
+    font-size: 40px;
+    font-weight: bold;
+}
+.statement{
+    /* padding: 20px 0px; */
+    margin-bottom: 20px;
+    background-color:rgb(196, 196, 147);
+    color: White;
+    font-size: 20px;
+}
+.win-lose {
+    background-color: lightblue;
+}
+.rando{
+    background-color: lightgreen;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 10px 20px 35px 10px;
+}
+.scoredisplay{
+    background-color: gray;
+
+}
+.score {
+        font-size: 35px;
+        background-color: gray;
+        padding-bottom: 45px;
+
+}
+.gem1, .gem2, .gem3, .gem4 {
+    margin: 10px 10px;
+    border: 1px solid black;
+}
