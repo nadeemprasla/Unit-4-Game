@@ -45,3 +45,14 @@ h1{
     margin: 10px 10px;
     border: 1px solid black;
 }
+
+#alertWindow p{
+    height: 100%;
+    width: 100%;
+    background-color: Black;
+    color: yellow;
+    z-index: 5;
+    position: absolute;
+    top: 0px;
+    font-size: 50px
+}
